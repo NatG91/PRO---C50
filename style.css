@@ -1,0 +1,43 @@
+h1{
+    color:aqua;
+    }
+    *{
+
+    }
+    .NathansLinks{
+        background-color:orange;
+        display : flex;
+        justify-content : space-evenly;
+
+    }
+    .Projects{
+        background-color:turquoise;
+        display : flex;
+        flex-wrap:wrap;
+        justify-content : space-evenly;
+
+    }
+    .SocialMedia{
+        background-color:thistle;
+        display : flex;
+        justify-content : flex-end;
+
+    }
+    .Info{
+        background-color: orchid;
+        display : flex;
+        justify-content : space-evenly;
+        align-items: stretch;
+        align-content: stretch;
+    }
+    .Quote{
+        background-color: orchid;
+        display : flex;
+        justify-content : space-evenly;
+        align-items: stretch;
+        align-content: stretch;
+        font-style: italic;
+    }
+    p,h2{
+        text-align:center;
+    }
